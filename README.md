@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1xBDAutC__b2i5RAWSx9T24ZK-28bM4_idFAz3E6o-7g/edit#
+
 ## Environment setup
 
 Either use `pipenv` for Virtual Environment or Docker container
